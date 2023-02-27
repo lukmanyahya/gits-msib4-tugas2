@@ -2,6 +2,10 @@
 <html>
 <head>
 <title> Saya </title>
+    <script>
+var time = new Date();
+console.log(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
+</script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body background="1.jpg">
